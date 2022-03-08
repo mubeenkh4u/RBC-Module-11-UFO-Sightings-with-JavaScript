@@ -32,11 +32,11 @@ body {
 }
 ```
 Here is the filter in action:
-<table align="center">
-<tr>![Filter.png](static/images/Filter.png)</tr>
-<tr>![Date_Filter.png](static/images/Date_Filter.png)</tr>
-<tr>![State_Filter.png](static/images/State_Filter.png)</tr>
-</table>
+
+![Filter.png](static/images/Filter.png)
+![Date_Filter.png](static/images/Date_Filter.png)
+![State_Filter.png](static/images/State_Filter.png)
+
 
 The code block used for making the filter interactive in `JavaScript`.
 ```
