@@ -61,7 +61,8 @@ function updateFilters() {
     // 9. Loop through all of the filters and keep any data that
     // matches the filter values
     Object.keys(filters).forEach((key) => {
-        let userInput = d3.select("#"+key).property("value");
+        let input = d3.select("#"+key).property("value");
+        let userInput = input.toLowerCase();
         if (userInput){
             updateFilters = updateFilters.filter(row => row[key] === userInput)
         };
