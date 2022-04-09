@@ -1,4 +1,4 @@
-# RBC-Module-11-UFO-Sightings-with-JavaScript
+# UFO-Sightings-with-JavaScript
 
 ## Overview
 During the course of this project we had to assist Dana, a data journalist who had been given the opportunity to write her first own personal piece. Here she picked up her hometown McMinnville, Oregon and its famous UFO Sightings as her piece. The work on this project we took an enormous JavaScript database file with UFO sighting information across the country.
